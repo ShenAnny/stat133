@@ -1,6 +1,6 @@
 ---
 title: "For the Lab 8"
-author: ""
+author: "Yixin Shen"
 date: ""
 output: 
   html_document:
